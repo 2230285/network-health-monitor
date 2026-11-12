@@ -1,0 +1,6 @@
+device_name,ip_address,port,category
+Local Loopback,127.0.0.1,80,Local Server
+Google Public DNS,8.8.8.8,53,External DNS
+Cloudflare DNS,1.1.1.1,443,External DNS
+GitHub Web Server,github.com,443,Web Service
+Offline Test Node,192.0.2.1,22,Network Switch

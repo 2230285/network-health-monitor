@@ -1,0 +1,15 @@
+# Abaikan laporan CSV ujian tempatan
+reports/*.csv
+!reports/.gitkeep
+
+# Persekitaran maya & fail cache Python
+venv/
+__pycache__/
+*.pyc
+
+.env
+reports/*.csv
+!reports/.gitkeep
+venv/
+__pycache__/
+*.pyc
